@@ -1,4 +1,4 @@
-# JT - QR Code Challenge
+# JT - QR Code Component
 
 This is a solution to the [QR Code challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
